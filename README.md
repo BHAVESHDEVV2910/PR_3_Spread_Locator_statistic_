@@ -292,7 +292,7 @@ Aspiring Data Scientist | Python | Statistics | Machine Learning
 
 GitHub: [@TusharBagle](https://github.com/TusharBagle)
 
-Project Repository: [3.-Spread-Locator](https://github.com/TusharBagle/3.-Spread-Locator)
+Project Repository: (https://github.com/BHAVESHDEVV2910/PR_3_Spread_Locator/tree/main)
 
 ---
 
