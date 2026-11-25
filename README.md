@@ -286,7 +286,7 @@ Potential improvements to this project include:
 
 ## 👨‍💻 Author
 
-**Tushar Bagle**
+**Bhavesh Kumbhare**
 
 Aspiring Data Scientist | Python | Statistics | Machine Learning
 
@@ -318,4 +318,4 @@ See the [LICENSE](LICENSE) file for details.
 
 
 # Author 
-Tushar Bagle
+Bhavesh Kumbhare
