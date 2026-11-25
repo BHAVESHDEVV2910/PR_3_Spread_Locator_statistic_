@@ -290,9 +290,9 @@ Potential improvements to this project include:
 
 Aspiring Data Scientist | Python | Statistics | Machine Learning
 
-GitHub: [@TusharBagle](https://github.com/TusharBagle)
+GitHub: [@BHAVESHDEVV2910]((https://github.com/BHAVESHDEVV2910))
 
-Project Repository: (https://github.com/BHAVESHDEVV2910/PR_3_Spread_Locator/tree/main)
+Project Repository: (PR_3_Spread_Locator)(https://github.com/BHAVESHDEVV2910/PR_3_Spread_Locator/tree/main)
 
 ---
 
